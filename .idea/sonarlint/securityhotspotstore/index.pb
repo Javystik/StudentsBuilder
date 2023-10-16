@@ -33,3 +33,5 @@ j
 :src/com/zoi4erom/practic3/userInterface/UserInterface.java,9\4\9446afc88aff2690372aa0090bd6a485bea86525
 k
 ;src/com/zoi4erom/practic3/businessLogic/CreateComputer.java,2\9\297195eec7a79346c385cca335c1f92abb57e72d
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

@@ -1,12 +1,10 @@
 
 c
-java:S1192"FDefine a constant instead of duplicating this literal "black" 3 times.(³¦ı8ÀÁ÷ò²1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëç„íùÿÿÿÿ8ÁÁ÷ò²1
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³¦ı8ÃÁ÷ò²1
-{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í§¨†ıÿÿÿÿ8ÃÁ÷ò²1
-{	java:S115
-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³Æ§½úÿÿÿÿ8ÃÁ÷ò²1
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åîËøÿÿÿÿ8ÃÁ÷ò²1
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øÉƒÎ8ÃÁ÷ò²1
-P
-java:S1128".Remove this unused import 'java.security.Key'.(ŞÃ“úÿÿÿÿ8êÜ ÷²1
+java:S1192"FDefine a constant instead of duplicating this literal "black" 3 times.(³¦ı8Ñ†ÔÍ³1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëç„íùÿÿÿÿ8Ñ†ÔÍ³1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³¦ı8å†ÔÍ³1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í§¨†ıÿÿÿÿ8å†ÔÍ³1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³Æ§½úÿÿÿÿ8å†ÔÍ³1
+{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åîËøÿÿÿÿ8å†ÔÍ³1
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øÉƒÎ8å†ÔÍ³1

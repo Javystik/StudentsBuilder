@@ -51,7 +51,8 @@ public class CreateComputer {
      }
 
      public Computer buildComputer() {
-          if (selectedCPU == null || selectedGraphicsCard == null || selectedHardDrive == null || selectedMotherboard == null || selectedRAM == null || selectedPowerSupply == null) {
+          if (selectedCPU == null || selectedGraphicsCard == null || selectedHardDrive == null || selectedMotherboard == null
+                  || selectedRAM == null || selectedPowerSupply == null) {
                throw new RuntimeException("Не вистачає обов'язкових компонентів для створення комп'ютера.");
           }
 
@@ -89,6 +90,8 @@ public class CreateComputer {
 
           return computer;
      }
+
+     // вибирає компонент зі списку опцій користувача та підраховує вартість обраного компонента.
      public static <T extends Enum<?> & FeatureChecker> T chooseComponent(Scanner in, Class<T> enumType, String message) {
           T selectedComponent = selectOption(in, enumType, message);
           if (selectedComponent != null) {
@@ -97,6 +100,8 @@ public class CreateComputer {
           return selectedComponent;
      }
 
+
+     //вибір компоненту до компютера та перевірка на правильність вводу
      public static <T extends Enum<?> & FeatureChecker> T selectOption(Scanner in, Class<T> enumType, String prompt) {
           System.out.println(prompt);
           T[] options = enumType.getEnumConstants();

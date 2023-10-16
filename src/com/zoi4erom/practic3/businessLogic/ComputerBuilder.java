@@ -1,17 +1,17 @@
 package com.zoi4erom.practic3.businessLogic;
 
 public class ComputerBuilder {
-     private String keyBoard = null;
-     private String mouse= null;
-     private String monitor= null;
-     private String lighting= null;
-     private String speaker= null;
-     private String CPU= null;
-     private String graphicsCard= null;
-     private String hardDrive= null;
-     private String motherBoard= null;
-     private String RAM= null;
-     private String powerSupply= null;
+     private String keyBoard;
+     private String mouse;
+     private String monitor;
+     private String lighting;
+     private String speaker;
+     private String CPU;
+     private String graphicsCard;
+     private String hardDrive;
+     private String motherBoard;
+     private String RAM;
+     private String powerSupply;
 
      public ComputerBuilder setPowerSupply(String powerSupply) {
           this.powerSupply = powerSupply;
@@ -83,10 +83,6 @@ public class ComputerBuilder {
           return monitor;
      }
 
-     public Computer build(){
-          return new Computer(this);
-     }
-
      public String getMonitor() {
           return monitor;
      }
@@ -117,5 +113,9 @@ public class ComputerBuilder {
 
      public String getRAM() {
           return RAM;
+     }
+
+     public Computer build(){
+          return new Computer(this);
      }
 }

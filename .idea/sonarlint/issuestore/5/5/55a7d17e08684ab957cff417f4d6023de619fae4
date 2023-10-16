@@ -1,8 +1,8 @@
 
-m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÔÉ¿8«¹¬÷²1
-r	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒîÇ‰ıÿÿÿÿ8­¹¬÷²1
+m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÔÉ¿8«¹¬÷²1
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒîÇ‰ıÿÿÿÿ8­¹¬÷²1
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åã×Ä8¦Ÿ÷ğ²1
-o	java:S116	"NRename this field "CPU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÚ”ùÿÿÿÿ8ÛÌª÷²1
-j	java:S116"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤½œ8ÛÌª÷²1
+j	java:S116	"NRename this field "CPU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÚÔ¦8ÛÌª÷²1
+o	java:S116"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ8ÛÌª÷²1
 w
-java:S4144["ZUpdate this method so that its implementation is not identical to "getMotinor" on line 83.(“Œ¤8Üà«÷²1
+java:S4144V"ZUpdate this method so that its implementation is not identical to "getMotinor" on line 82.(“Œ¤8Üà«÷²1

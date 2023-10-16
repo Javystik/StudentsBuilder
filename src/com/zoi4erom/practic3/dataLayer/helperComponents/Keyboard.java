@@ -2,8 +2,6 @@ package com.zoi4erom.practic3.dataLayer.helperComponents;
 
 import com.zoi4erom.practic3.businessLogic.FeatureChecker;
 
-import java.security.Key;
-
 public enum Keyboard implements FeatureChecker { //клавіатура
      Corsair_K95_Platinum("Corsair K95 Platinum","Corsair", "black", 500),
      Logitech_GPro_X("Logitech GPro X","Logitech", "white", 980),

@@ -1,16 +1,16 @@
 package com.zoi4erom.practic3.businessLogic;
 
 public class Computer {
-     private String keyBoard = null;
-     private String mouse= null;
-     private String monitor= null;
-     private String lighting= null;
-     private String speaker= null;
-     private String CPU= null;
-     private String graphicsCard= null;
-     private String hardDrive= null;
-     private String motherBoard= null;
-     private String RAM= null;
+     private String keyBoard;
+     private String mouse;
+     private String monitor;
+     private String lighting;
+     private String speaker;
+     private String CPU;
+     private String graphicsCard;
+     private String hardDrive;
+     private String motherBoard;
+     private String RAM;
      private String powerSupply;
 
      Computer(ComputerBuilder computerBuilder) {
