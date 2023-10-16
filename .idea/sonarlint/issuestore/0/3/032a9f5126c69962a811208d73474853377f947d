@@ -1,0 +1,4 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åã×Ä8ääÀš³1
+j	java:S116	"NRename this field "CPU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÚÔ¦8ìäÀš³1
+o	java:S116"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ8ìäÀš³1

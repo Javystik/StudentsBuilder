@@ -1,0 +1,18 @@
+
+k
+java:S1192"ODefine a constant instead of duplicating this literal "CORSAIR_RM850X" 5 times.(¹æå8ÂèË—³1
+e
+java:S1192"IDefine a constant instead of duplicating this literal "80+ Gold" 3 times.(¹æå8öèË—³1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê½8†éË—³1
+Y
+java:S3066 "<Lower the visibility of this setter or remove it altogether.(Ò’Š¯8¢éË—³1
+^
+java:S3066$"<Lower the visibility of this setter or remove it altogether.(ˆ‰Ô•üÿÿÿÿ8²éË—³1
+^
+java:S3066("<Lower the visibility of this setter or remove it altogether.( éà£ÿÿÿÿÿ8ÀéË—³1
+Y
+java:S3066,"<Lower the visibility of this setter or remove it altogether.(é˜íõ8ÀéË—³1
+Y
+java:S30660"<Lower the visibility of this setter or remove it altogether.(ß¦Ö8ÀéË—³1
+Y
+java:S30664"<Lower the visibility of this setter or remove it altogether.(æø†ï8ĞéË—³1
